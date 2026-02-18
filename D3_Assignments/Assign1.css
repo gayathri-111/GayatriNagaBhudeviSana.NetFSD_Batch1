@@ -1,0 +1,107 @@
+body{
+    background-color: aliceblue;
+}
+
+h1, p {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    color: #004080;
+}
+header h1{
+    color:white;
+}
+
+
+
+.service-card{
+    padding:20px;
+    margin:20px;
+    margin-left:100px;
+    border:2px solid rgb(133, 213, 247);
+    box-sizing:border-box;
+    background-color: rgb(160, 187, 210);
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    vertical-align: top;    
+}
+
+.service-card:hover{
+    transform: scale(1.2);
+    background-color:white;
+}
+.services h2{
+    text-align: center;
+    
+}
+
+.services p {
+    
+    color: #333;
+}
+
+#contact {
+    background-color: #f0f8ff;
+    padding: 20px;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+
+}
+
+button:hover {
+    background-color: #004080;
+    color: white;
+    cursor: pointer;
+}
+#contact {
+    text-align:center;
+}
+
+input[type="text"] {
+    width: 250px;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+section {
+    margin: 40px 0;
+}
+
+header, footer {
+    background-color: #004080;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    display: inline-block;   
+    background-color: #004080;
+        padding: 10px 20px;
+  border-radius: 8px;
+}
+
+nav a {
+    margin:  0 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.banner {
+    background-color: #cce0ff;
+    padding: 5px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+

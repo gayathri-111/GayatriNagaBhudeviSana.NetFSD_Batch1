@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/D3_Assignments/Assign1.css">
+</head>
+<body>
+    <header>
+        <h1>Sanchari Hospitals</h1>
+        <nav>
+            <a href="#Services">Services</a>
+            <a href="#Doctor">Doctor</a>
+            <a href="#Contact">Contact</a>
+        </nav>
+    </header>
+    <div style="background-color:red; color:white; padding:10px; text-align:center;">
+        🚨Emergency Alert: HPV Vaccines are in Stock.
+    </div>
+    <section class="banner">
+        <h2>Welcome to Sanchari Hospitals</h2>
+    </section>
+   
+
+    <section id="services" class="services"> 
+        <h2>Our Services</h2> 
+        <div class="service-card"> 
+            <h3>Emergency & Acute Care</h3> 
+            <p>24/7 services for critical situations, including ambulances, trauma centers, and intensive care units (ICUs).</p> 
+        </div> 
+        <div class="service-card"> 
+            <h3>Impatient & Outpatient Care</h3> 
+            <p>Diagnostic tests, surgeries (operating theaters), and bedside monitoring for admitted patients, along with consultations for visiting patients</p> 
+        </div> 
+        <div class="service-card"> 
+            <h3>Specialized Medical Departments</h3> 
+            <p> Expert care for specific needs, such as pediatrics, obstetrics/gynecology, cardiology, orthopedics, and oncology.</p> 
+        </div> 
+    </section>
+
+    <section id="doctor">
+        <style>
+            #doctor {
+                background-color: #bfd2e6;
+                padding: 20px;
+                border-radius: 10px;
+                text-align:center
+            }
+            #doctor h2 {
+                color: #004080;
+            }
+        </style>
+
+        <h2>
+            Meet Our Doctor
+        </h2>
+        <a href="https://basavatarakam.org/dr-r-rajagopalan/"  style="text-decoration: none; color:rgb(44, 43, 43);" target="_blank"> Dr. R. Rajagopalan, Gynecologist & Obstetrician with 22+ years of experience, focusing on surgical gynecology.</a>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form>
+            <fieldset style="width:350px; height:180px">
+                <legend>Contact Us</legend>
+                <table>
+                    <tr>
+                        <td>Name:</td>
+                        <td><input type="text" name="name" required autofocus placeholder="enter fullname"></td>
+                    </tr>
+                    <tr>
+                        <td>Email:</td>
+                        <td><input type="email" name="email" required placeholder="enter email"></td>
+                    </tr>
+                    <tr>
+                        <td>Tel:</td>
+                        <td><input type="number" name="tel" required placeholder="phone number"></td>
+                    </tr>
+                    <tr>
+                        <td>Message:</td>
+                        <td><textarea></textarea></td>
+                    </tr>
+                </table>
+            <button type="submit">Submit</button>
+            </fieldset>
+        </form>
+    </section>
+    <footer>
+        <p>&copy; 2026 Sanchari Hospitals. All rights reserved.</p>
+    </footer>
+</body>
+</html>
