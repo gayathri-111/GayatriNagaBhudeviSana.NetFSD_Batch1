@@ -26,7 +26,8 @@ header h1{
     width: 250px;
     height: 250px;
     display: inline-block;
-    vertical-align: top;    
+    vertical-align: top;  
+
 }
 
 .service-card:hover{

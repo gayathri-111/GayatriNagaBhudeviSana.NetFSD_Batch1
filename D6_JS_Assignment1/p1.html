@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body{
+            background-color:blanchedalmond
+        }
+        h1{
+            color:blueviolet;
+            text-align:center;
+        }
+        nav{
+            background-color:red;
+            text-align: center;
+            padding: 10px;
+
+        }
+        a{
+            padding:20px;
+            margin :15px;
+            color:white;
+            text-decoration: none;
+        }
+        @media(max-width: 768px){
+            body{
+                background-color: rgb(149, 181, 149);
+            }
+            h1{
+                font-size: 1.5em;
+            }
+            nav {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            nav a {
+                display: block;
+                width: 100%;
+                text-align: center;
+                border-bottom: 1px solid #444;
+            }
+
+        }
+        
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <h1>Responsive Design Layout</h1>
+    <nav>
+        <a href="#Home">Home</a>
+        <a href="#Service">Services</a>
+        <a href="#AboutUS">About US</a>
+        <a href="#Contact">Contact</a>
+    </nav>
+</body>
+</html>

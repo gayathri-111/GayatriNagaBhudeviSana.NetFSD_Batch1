@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let p_amount = prompt("Enter Amount");
+        let discount= 0
+        if(p_amount >=5000){
+            discount = p_amount*0.2
+        }
+        else if(p_amount >= 3000){
+            discount = p_amount*0.1;
+        }
+        else{
+            discount = p_amount*0;
+        }
+        console.log("Discount amount: " + discount);
+        console.log("Final Payable Amount: " + (p_amount - discount));
+    </script>
+</body>
+</html>

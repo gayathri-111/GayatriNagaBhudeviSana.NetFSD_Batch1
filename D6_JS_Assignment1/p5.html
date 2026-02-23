@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let num = prompt("enter number:");
+        num = Number(num);
+        let result = num ? "positive" : "negative";
+        console.log(result);
+        if(num%2 == 0){
+            console.log("Even");
+        }
+        else{
+            console.log("odd");
+        }
+        if (num > 0) {
+            for (let i = 1; i <= num; i++) {
+                console.log(i);
+            }
+        } else {
+            for (let i = 1; i >= num; i--) {
+                console.log(i);
+            }
+        }
+
+    </script>
+</body>
+</html>
