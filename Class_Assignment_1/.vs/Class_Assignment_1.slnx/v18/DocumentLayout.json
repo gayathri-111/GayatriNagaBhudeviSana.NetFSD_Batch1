@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|c:\\dotnet_fsd\\c#.net\\handson\\class_assignment_1\\class_assignment_1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|solutionrelative:class_assignment_1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|c:\\dotnet_fsd\\c#.net\\handson\\class_assignment_1\\assign8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|solutionrelative:assign8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|c:\\dotnet_fsd\\c#.net\\handson\\class_assignment_1\\assign6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|solutionrelative:assign6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|c:\\dotnet_fsd\\c#.net\\handson\\class_assignment_1\\assign7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|solutionrelative:assign7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|c:\\dotnet_fsd\\c#.net\\handson\\class_assignment_1\\assign5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|solutionrelative:assign5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|c:\\dotnet_fsd\\c#.net\\handson\\class_assignment_1\\assign4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|solutionrelative:assign4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|c:\\dotnet_fsd\\c#.net\\handson\\class_assignment_1\\assign3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|solutionrelative:assign3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|c:\\dotnet_fsd\\c#.net\\handson\\class_assignment_1\\assign2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|solutionrelative:assign2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|c:\\dotnet_fsd\\c#.net\\handson\\class_assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88AB831-4478-F353-9836-7FBCB14499A4}|Class_Assignment_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class_Assignment_1",
+              "DocumentMoniker": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Class_Assignment_1.csproj",
+              "RelativeDocumentMoniker": "Class_Assignment_1.csproj",
+              "ToolTip": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Class_Assignment_1.csproj",
+              "RelativeToolTip": "Class_Assignment_1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T19:10:44.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assign8.cs",
+              "DocumentMoniker": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign8.cs",
+              "RelativeDocumentMoniker": "Assign8.cs",
+              "ToolTip": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign8.cs",
+              "RelativeToolTip": "Assign8.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:58:51.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assign7.cs",
+              "DocumentMoniker": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign7.cs",
+              "RelativeDocumentMoniker": "Assign7.cs",
+              "ToolTip": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign7.cs",
+              "RelativeToolTip": "Assign7.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:57:33.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assign6.cs",
+              "DocumentMoniker": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign6.cs",
+              "RelativeDocumentMoniker": "Assign6.cs",
+              "ToolTip": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign6.cs",
+              "RelativeToolTip": "Assign6.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:21:57.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assign5.cs",
+              "DocumentMoniker": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign5.cs",
+              "RelativeDocumentMoniker": "Assign5.cs",
+              "ToolTip": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign5.cs",
+              "RelativeToolTip": "Assign5.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:05:21.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assign4.cs",
+              "DocumentMoniker": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign4.cs",
+              "RelativeDocumentMoniker": "Assign4.cs",
+              "ToolTip": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign4.cs",
+              "RelativeToolTip": "Assign4.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA8wBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:39:24.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assign3.cs",
+              "DocumentMoniker": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign3.cs",
+              "RelativeDocumentMoniker": "Assign3.cs",
+              "ToolTip": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign3.cs",
+              "RelativeToolTip": "Assign3.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:19:27.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assign2.cs",
+              "DocumentMoniker": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign2.cs",
+              "RelativeDocumentMoniker": "Assign2.cs",
+              "ToolTip": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Assign2.cs",
+              "RelativeToolTip": "Assign2.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:56:22.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DotNet_FSD\\C#.Net\\handson\\Class_Assignment_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:43:01.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
